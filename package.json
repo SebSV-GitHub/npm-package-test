@@ -1,0 +1,31 @@
+{
+  "name": "npm-package-test",
+  "version": "1.0.0",
+  "description": "NPM package test - GitHub actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebSV-GitHub/npm-package-test.git"
+  },
+  "keywords": [
+    "NPM",
+    "Package",
+    "GitHub",
+    "packages",
+    "POC",
+    "Javascript"
+  ],
+  "author": {
+    "name": "Sebastián Suárez Valencia",
+    "email": "contact.github@sebsv.com",
+    "url": "http://www.sebsv.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebSV-GitHub/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/SebSV-GitHub/npm-package-test#readme"
+}
