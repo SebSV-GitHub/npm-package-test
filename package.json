@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/SebSV-GitHub/npm-package-test/issues"
   },
-  "homepage": "https://github.com/SebSV-GitHub/npm-package-test#readme"
+  "homepage": "https://github.com/SebSV-GitHub/npm-package-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
